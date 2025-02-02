@@ -1,0 +1,17 @@
+{
+	"name": "PL_PractiseADF_Git",
+	"properties": {
+		"activities": [
+			{
+				"name": "Wait for 10sec",
+				"type": "Wait",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"waitTimeInSeconds": 10
+				}
+			}
+		],
+		"annotations": []
+	}
+}
